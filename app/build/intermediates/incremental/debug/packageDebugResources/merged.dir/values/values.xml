@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="gold">#B7935F</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">tasbeeh</string>
+    <string name="islamic">إسلامي</string>
+    <string name="tasbehCount">عدد التسبيحات</string>
+    <style name="Base.Theme.Tasbeeh" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Tasbeeh" parent="Base.Theme.Tasbeeh"/>
+    <style name="bg" parent="Base.Theme.Tasbeeh">
+        <item name="background">@drawable/default_bg</item>
+
+
+
+    </style>
+</resources>

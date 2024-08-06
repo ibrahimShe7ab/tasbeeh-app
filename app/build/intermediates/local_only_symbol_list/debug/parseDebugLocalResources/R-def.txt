@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color gold
+color white
+drawable body_sebha_logo
+drawable dark_bg
+drawable default_bg
+drawable head_sebha_logo
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id islamicTV
+id main
+id seb_body
+id seb_head
+id tabeh_countTV
+id tasbeh_count
+id zikr
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string islamic
+string tasbehCount
+style Base.Theme.Tasbeeh
+style Theme.Tasbeeh
+style bg
+xml backup_rules
+xml data_extraction_rules
